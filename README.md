@@ -1,2 +1,2 @@
 # Python-Basics
-Basic cods for learning Python
+Basic codes for learning Python.
